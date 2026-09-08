@@ -1,0 +1,5 @@
+{
+  "clangd.arguments": [
+    "--query-driver=/opt/homebrew/bin/arm-none-eabi-*,/usr/local/bin/arm-none-eabi-*"
+  ]
+}
